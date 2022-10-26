@@ -1,6 +1,6 @@
-# CryptoFolio
+# Crypto watchlist
 
-CryptoFolio WebApp built with React is a crypto currency tracking and portfolio site. It is a very handy tool for crypto currency investors. You can watch the price, marketcap graph of any crypto currency , and predict possible future price.
+Crypto watchlist WebApp built with React is a crypto currency tracking and portfolio site. It is a very handy tool for crypto currency investors. You can watch the price, marketcap graph of any crypto currency , and predict possible future price.
 
 ## Features
   - Various Crypto Currencies are available
@@ -10,11 +10,6 @@ CryptoFolio WebApp built with React is a crypto currency tracking and portfolio 
   - Important links like Main website, source code, discords and blog site is provided for each Crypto Currencies
   - Dark mode
   - Trending Coins Section
-
-## Preview
-
-
-![cryptofolio_gif](https://user-images.githubusercontent.com/79929708/174285633-0b057aba-ed19-43da-8dd6-1a91c57e42bb.gif)
 
 
 ## Tech Stack
@@ -28,19 +23,10 @@ CryptoFolio WebApp built with React is a crypto currency tracking and portfolio 
  - <a href="https://v4.mui.com/" >Material ui</a>
  - <a href="https://www.coingecko.com/en/api/documentation" >CryptoGecko Api</a>
 
-## To Do
-
-<ul>
-  <li>[ ] login/signup authentication</li>
-  <li>[ ] Watchlist</li>
-</ul>
-
 
 ### Installation
 
 ```
-git clone https://github.com/manavsiddharthgupta/CryptoFolio.git
-
 npm install
 
 npm start
